@@ -41,7 +41,7 @@ churn-prediction/
 - Cloud-hosted for easy sharing  
 
 ## 🌐 Live Demo  
-[Streamlit App Link](https://ajcjvriugqvnhhgwpxqqd6.streamlit.app/) 
+[Streamlit App Link](https://churn-modelling-using-ann-and-deploying-in-app-mbhf8jtgcmi2lx7.streamlit.app/) 
 
 ## 🛠 Tech Stack  
 - Python, Pandas, NumPy  
